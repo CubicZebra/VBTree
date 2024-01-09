@@ -14,7 +14,7 @@ Description: Vector binary tree provides a new data structure, to
   array and tensor are also applicable.
 Imports: tensorA
 Depends: R (>= 2.10)
-License: GPL-3 + file LICENSE
+License: GPL-3
 URL: https://github.com/CubicZebra/VBTree
 Encoding: UTF-8
 LazyData: true
