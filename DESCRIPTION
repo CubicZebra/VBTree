@@ -3,15 +3,16 @@ Type: Package
 Title: Vector Binary Tree to Make Your Data Management More Efficient
 Version: 0.1.1
 Date: 2024-01-09
-Author: Chen ZHANG
-Maintainer: Chen ZHANG <chen.zhang_06sept@foxmail.com>
-Description: Vector binary tree provides a new data structure, to 
-  make your data visiting and management more efficient. if your
-  data has very structurized column names, it can read these names and 
-  factorize them through specific split pattern, then build the mappings
-  within double list, vector binary tree, array and tensor mutually, through
-  which the batched data processing is achievable easily. The methods of 
-  array and tensor are also applicable.
+Authors@R: c(person("Chen Zhang", role=c("aut", "cre", "cph"),
+ email="chen.zhang_06sept@foxmail.com"))
+Description: Vector binary tree provides a new data structure, to
+ make your data visiting and management more efficient. If the
+ data has structured column names, it can read these names and
+ factorize them through specific split pattern, then build the mappings
+ within double list, vector binary tree, array and tensor mutually, through
+ which the batched data processing is achievable easily. The methods of
+ array and tensor are also applicable. Detailed examples are provided by
+ Chen Zhang (2020) <doi:https://doi.org/10.35566/isdsa2019c8>.
 Imports: tensorA
 Depends: R (>= 2.10)
 License: GPL-3

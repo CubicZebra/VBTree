@@ -29,7 +29,7 @@ Prakash, P. K. S. & Rao, Achyutuni Sri Krishna (2016). R Data Structures and Alg
 \code{\link[tensorA:to.tensor]{to.tensor}}, \code{\link[tensorA:pos.tensor]{pos.tensor}}.
 }
 \examples{
-\dontrun{
+\donttest{
 #View the data to be visited:
 summary(datatest)
 colnames(datatest)
